@@ -14,8 +14,12 @@ module.exports = {
     disqusShortname: '',
     menu: [
       {
-        label: 'Posts',
+        label: 'All',
         path: '/',
+      },
+      {
+        label: 'AWS',
+        path: '/categories/aws',
       },
       {
         label: 'About me',
@@ -28,12 +32,8 @@ module.exports = {
     ],
     author: {
       name: 'Sang Mo',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#',
+      email: 'rntkdah2005@gmail.com',
+      github: 'smk009@naver.com',
     },
   },
   plugins: [

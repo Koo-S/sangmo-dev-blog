@@ -47,11 +47,7 @@ export const pageQuery = graphql`
         author {
           name
           email
-          telegram
-          twitter
           github
-          rss
-          vk
         }
       }
     }
@@ -62,6 +58,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
+          fileAbsolutePath
           fields {
             slug
             categorySlug
