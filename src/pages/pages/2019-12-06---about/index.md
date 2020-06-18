@@ -18,7 +18,7 @@ path: "/about"
 - 포지션 : Backend 개발자 ( AWS 인프라 담당 )
 - 역할
     - serverless framework를 활용하여 aws 서비스 구축 ( lambda, api gateway, cloudfront, s3, dynamodb )
-    - polyglot 구축 각 서비스별 lambda function 의 runtime 다르게 설정
+    - polyglot 환경 구축 각 서비스별 lambda function 의 runtime 다르게 설정 ( Node, Python )
     - 배포 자동화 pipeline 구축 ( AWS codebuild 사용 )
     - S3 + Cloudfront를 활용한 content cache 및 보안 설정
     - 가상 안경 시착 관련 data 설계 → dynamodb
