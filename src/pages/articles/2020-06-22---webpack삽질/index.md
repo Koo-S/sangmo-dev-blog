@@ -19,7 +19,7 @@ tags:
 ### 내가 해본 삽질 정리
 
 - 갑자기 webpack version 4를 잘 사용하고 싶었다. 하나의 번들링 file로 만들고 싶었다.
-- 내가 index.js에서 사용한 node_modules 만 webpack으로 번들링 시키고 싶었다.
+- 내가 index.js에서 사용한 module 만 webpack으로 번들링 시키고 싶었다.
 
     ```jsx
     const test = require('mainTest.js') // 이렇게 하면 mainTest.js 를 모두 번들링하는 것으로 알고 있음
