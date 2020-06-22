@@ -3,7 +3,7 @@ title: "AWS ssa 공부 # 1 - 개념 ( Global Infra ) "
 date: "2020-06-16"
 layout: post
 draft: false
-path: "/aws"
+path: "/aws-1"
 category: "aws"
 tags:
   - "AWS"
