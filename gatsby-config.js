@@ -22,6 +22,10 @@ module.exports = {
         path: '/categories/aws',
       },
       {
+        label: 'Dev',
+        path: '/categories/dev',
+      },
+      {
         label: 'About me',
         path: '/about/',
       },
